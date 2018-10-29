@@ -1,0 +1,78 @@
+F:\ifly .net\upload\upload\bin\Debug\upload.exe.config
+F:\ifly .net\upload\upload\bin\Debug\upload.exe
+F:\ifly .net\upload\upload\bin\Debug\upload.pdb
+F:\ifly .net\upload\upload\bin\Debug\DnsClient.dll
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.dll
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.dll
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.dll
+F:\ifly .net\upload\upload\bin\Debug\System.Buffers.dll
+F:\ifly .net\upload\upload\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ifly .net\upload\upload\bin\Debug\DnsClient.xml
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.xml
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.xml
+F:\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.xml
+F:\ifly .net\upload\upload\obj\Debug\upload.csprojAssemblyReference.cache
+F:\ifly .net\upload\upload\obj\Debug\upload.Properties.Resources.resources
+F:\ifly .net\upload\upload\obj\Debug\upload.csproj.GenerateResource.cache
+F:\ifly .net\upload\upload\obj\Debug\upload.csproj.CoreCompileInputs.cache
+F:\ifly .net\upload\upload\obj\Debug\upload.csproj.CopyComplete
+F:\ifly .net\upload\upload\obj\Debug\upload.exe
+F:\ifly .net\upload\upload\obj\Debug\upload.pdb
+F:\ifly .net\upload\upload\obj\Debug\upload.form.resources
+F:\ifly .net\upload\upload\bin\Debug\upload.exe.manifest
+F:\ifly .net\upload\upload\bin\Debug\upload.application
+F:\ifly .net\upload\upload\obj\Debug\upload.TrustInfo.xml
+F:\ifly .net\upload\upload\obj\Debug\upload.exe.manifest
+F:\ifly .net\upload\upload\obj\Debug\upload.application
+F:\ifly project\ifly .net\upload\upload\bin\Debug\upload.exe.config
+F:\ifly project\ifly .net\upload\upload\bin\Debug\upload.exe.manifest
+F:\ifly project\ifly .net\upload\upload\bin\Debug\upload.application
+F:\ifly project\ifly .net\upload\upload\bin\Debug\upload.exe
+F:\ifly project\ifly .net\upload\upload\bin\Debug\upload.pdb
+F:\ifly project\ifly .net\upload\upload\bin\Debug\DnsClient.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\System.Buffers.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ifly project\ifly .net\upload\upload\bin\Debug\DnsClient.xml
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.xml
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.xml
+F:\ifly project\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.xml
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.csprojAssemblyReference.cache
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.form.resources
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.Properties.Resources.resources
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.csproj.GenerateResource.cache
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.csproj.CoreCompileInputs.cache
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.TrustInfo.xml
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.exe.manifest
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.application
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.csproj.CopyComplete
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.exe
+F:\ifly project\ifly .net\upload\upload\obj\Debug\upload.pdb
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\upload.exe.config
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\upload.exe.manifest
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\upload.application
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\upload.exe
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\upload.pdb
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\DnsClient.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\System.Buffers.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\DnsClient.xml
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Bson.xml
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.xml
+F:\114代码\fly\ifly .net\upload\upload\bin\Debug\MongoDB.Driver.Core.xml
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.csprojAssemblyReference.cache
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.form.resources
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.Properties.Resources.resources
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.csproj.GenerateResource.cache
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.csproj.CoreCompileInputs.cache
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.TrustInfo.xml
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.exe.manifest
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.application
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.csproj.CopyComplete
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.exe
+F:\114代码\fly\ifly .net\upload\upload\obj\Debug\upload.pdb

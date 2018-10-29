@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "search", "search\search.csproj", "{C8BE3E0B-3F33-4175-89FD-78DAEDEC13B6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{E1647358-B663-43F3-9698-74DB44AD1E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BE3E0B-3F33-4175-89FD-78DAEDEC13B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BE3E0B-3F33-4175-89FD-78DAEDEC13B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BE3E0B-3F33-4175-89FD-78DAEDEC13B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BE3E0B-3F33-4175-89FD-78DAEDEC13B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1647358-B663-43F3-9698-74DB44AD1E9A}.Debug|Any CPU.ActiveCfg = Debug
+		{E1647358-B663-43F3-9698-74DB44AD1E9A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EFAA16-D82E-4ACF-8553-DF0743B25F7A}
+	EndGlobalSection
+EndGlobal
